@@ -11,7 +11,7 @@ A lightweight MATLAB library to read, visualize, and analyze 2D and 3D mesh file
 ## Repository Structure
 
 ```text
-├── mesh/                   # Sample 2D and 3D Gmsh files (.msh)
+├── mesh/                   # Sample 2D and 3D Gmsh files (.msh), where the exapmples are from the website https://people.sc.fsu.edu/~jburkardt/data/msh/msh.html
 │   ├── circle_2d.msh
 │   ├── cylinder_2d.msh
 │   ├── cylinder_3d.msh
